@@ -1,0 +1,15 @@
+.timer-container {
+	background-color: var(--timer-background-color);
+	border: var(--timer-border);
+	height: var(--timer-height);
+	width: var(--timer-width);
+	background-color: black;
+}
+
+.time-display {
+	font-size: 50px;
+	/* margin: auto;
+	width: 50%; */
+	margin: 0% 38%;
+	color: aliceblue;
+}
